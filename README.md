@@ -13,3 +13,10 @@ Feel free to contact me on discord for further info about this project. (Maheel#
 3. Added saving and auto save (auto save might be a bit broken)
 4. Added a title screen
 5. Made a few improvements to design
+
+## Update-2
+
+1. Slight changes to some portions of the story.
+2. Costomized Menu screen
+3. Design changed a bunch
+4. Added menu areas.

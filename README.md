@@ -1,6 +1,9 @@
 # The-Hollow
-Interactive Story, The Hollow, Still in heavy development
-Feel free to contact me on discord for further info about this project. (Maheel#3421)
+The life of many can change with just a little supernatural object. An object that can shape how they see things, how others see them and how they see themselves.
+
+Many of us dream of things that we want to achieve. Although for most parts our dreams are too ambitious or require a way too long time.
+
+Life is a short thing but what if it drags on forever, what if you get the chance to achieve those dreams, but as time goes on your emotions die, except towards others like you, what if ... you become hollow on the inside.
 
 ## Update-0
 

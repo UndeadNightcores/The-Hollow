@@ -5,6 +5,14 @@ Many of us dream of things that we want to achieve. Although for most parts our 
 
 Life is a short thing but what if it drags on forever, what if you get the chance to achieve those dreams, but as time goes on your emotions die, except towards others like you, what if ... you become hollow on the inside.
 
+
+## Latest Update (Update-4)
+
+1. Story extended
+2. Changes to some older sections of the story
+3. Chapter system introduced.
+4. minor grammer changes
+
 ## Update-1
 
 1. Initial Intro Added (heavy changes may come to this intro to fit with the rest of the story later on however)
